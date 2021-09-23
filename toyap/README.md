@@ -160,7 +160,7 @@ This is a very simple swagger2 example.
 
 ---
 
-![[4. add swagger.yaml file 1.png]]
+![4  add swagger yaml file 1](https://user-images.githubusercontent.com/17401732/134555403-908ed854-9272-4f92-90b0-a0106033356a.png)
 
 ---
 
@@ -168,11 +168,11 @@ This is a very simple swagger2 example.
 
 ---
 
-![[4. add swagger.yaml file 3.png]]
+![4  add swagger yaml file 3](https://user-images.githubusercontent.com/17401732/134555421-c4201cc3-01c3-428d-9ddb-e2114163eff5.png)
 
 ---
 
-![[4. add swagger.yaml file 4.png]]
+![4  add swagger yaml file 4](https://user-images.githubusercontent.com/17401732/134555448-09c84090-22ee-4069-abff-7de1f3cd8c9a.png)
 
 ---
 
@@ -180,11 +180,11 @@ This is a very simple swagger2 example.
 
 ---
 
-![[4. add swagger.yaml file 5.png]]
+![4  add swagger yaml file 5](https://user-images.githubusercontent.com/17401732/134555467-bf70ca1a-ee15-4a77-abf4-5f0a6f474d2e.png)
 
 ---
 
-![[4. add swagger.yaml file 6.png]]
+![4  add swagger yaml file 6](https://user-images.githubusercontent.com/17401732/134555524-73aa1de8-1727-49f1-9c33-f560e28d08a8.png)
 
 ---
 
@@ -192,8 +192,9 @@ This is a very simple swagger2 example.
 
 ---
 
-![[4. add swagger.yaml file 7.png]]
+![4  add swagger yaml file 7](https://user-images.githubusercontent.com/17401732/134555565-fc0f3157-7a04-4fda-a219-5c83d059ee1b.png)
 
 ---
 
-![[4. add swagger.yaml file 8.png]]
+![4  add swagger yaml file 8](https://user-images.githubusercontent.com/17401732/134555591-c5c0779d-bdce-4c98-b8a8-ab72098b1717.png)
+
