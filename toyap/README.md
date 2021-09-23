@@ -133,3 +133,19 @@ This is a very simple swagger2 example.
 ![1  create swagger2 demo 30](https://user-images.githubusercontent.com/17401732/133091245-41d91cf3-54b3-4cc7-bf28-11f00a63a640.png)
 
 ---
+
+## 2. bypassing security cors policy
+
+---
+
+![[2. bypassing security cors policy 1.png]]
+
+## 3. redirect swagger3 path to swagger2
+
+---
+
+![[3. redirect swagger3 path to swagger2 1.png]]
+
+---
+
+![[3. redirect swagger3 path to swagger2 2.png]]
