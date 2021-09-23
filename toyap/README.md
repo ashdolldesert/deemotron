@@ -138,14 +138,16 @@ This is a very simple swagger2 example.
 
 ---
 
-![[2. bypassing security cors policy 1.png]]
+![2  bypassing security cors policy 1](https://user-images.githubusercontent.com/17401732/134546579-a651ceff-8132-4948-99ad-302de8c4a195.png)
+
+---
 
 ## 3. redirect swagger3 path to swagger2
 
 ---
 
-![[3. redirect swagger3 path to swagger2 1.png]]
+![3  redirect swagger3 path to swagger2 1](https://user-images.githubusercontent.com/17401732/134546621-171f1335-1587-492d-b760-1b13fddc8c78.png)
 
 ---
 
-![[3. redirect swagger3 path to swagger2 2.png]]
+![3  redirect swagger3 path to swagger2 2](https://user-images.githubusercontent.com/17401732/134546652-ccbccb72-cc8c-4a6a-a787-fbcd8e828fc0.png)
