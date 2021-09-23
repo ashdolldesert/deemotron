@@ -11,7 +11,7 @@ import org.springframework.web.cors.UrlBasedCorsConfigurationSource;
 @Configuration
 public class WebSecurityConfig extends WebSecurityConfigurerAdapter {
 
-    // private static final String[] AUTH_WHITELIST = {
+    // private static final String[] AUTH_WHITELIST = { 
     //     "/swagger-resources/**",
     //     "/swagger-ui.html",
     //     "/v2/api-docs",
