@@ -1,0 +1,52 @@
+swagger: '2.0'
+info:
+  description: This is a very simple swagger2 example.
+  version: 0.0.1
+  title: Toy App
+  license:
+    name: Apache 2.0
+    url: 'http://www.apache.org/licenses/LICENSE-2.0.html'
+host: 'localhost:8080'
+basePath:
+tags:
+  - name: Planets
+    description: This API provides the capability to search Planet from a Planet Repository.
+schemas:
+  - https
+  - http
+paths:
+  /weight/for/me/on/{planetName}/{earthWeight}:
+    get:
+      tags: 
+        - Planets
+      summary: Get a person weight on the Planet.
+      parameters:
+        - in: path
+          name: planetName
+          type: string
+          required: true
+          description: Planet Name
+          example: MERCURY
+        - in: path
+          name: earthWeight
+          type: number
+          required: true
+          description: Earth Weight
+          example: 175
+      responses:
+        "200":
+          description: "successful"
+          schema:
+            type: object
+            properties:
+              planetName:
+                type: string
+              mass:
+                type: number
+              radius:
+                type: number
+              surfaceGravity:
+                type: number
+              yourWeightOnPlanet:
+                type: number
+      

@@ -151,3 +151,49 @@ This is a very simple swagger2 example.
 ---
 
 ![3  redirect swagger3 path to swagger2 2](https://user-images.githubusercontent.com/17401732/134546652-ccbccb72-cc8c-4a6a-a787-fbcd8e828fc0.png)
+
+## 4. add swagger.yaml file
+
+---
+
+### 4-1. Create static/swagger-apis/api2 folder
+
+---
+
+![[4. add swagger.yaml file 1.png]]
+
+---
+
+### 4-2. Create SwaggerSpecConfig
+
+---
+
+![[4. add swagger.yaml file 3.png]]
+
+---
+
+![[4. add swagger.yaml file 4.png]]
+
+---
+
+### 4-3. Create swagger.yaml file
+
+---
+
+![[4. add swagger.yaml file 5.png]]
+
+---
+
+![[4. add swagger.yaml file 6.png]]
+
+---
+
+### 4-4. Lets try spec api2
+
+---
+
+![[4. add swagger.yaml file 7.png]]
+
+---
+
+![[4. add swagger.yaml file 8.png]]
