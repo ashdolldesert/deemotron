@@ -219,11 +219,12 @@ profiles
 
 ---
 
-![[6. add package.json and scripts 0.png]]
+![6  add package json and scripts 0](https://user-images.githubusercontent.com/17401732/134715445-f94be95b-4fc9-42f7-9fe6-8b6156928eaf.png)
 
 ---
 
-![[6. add package.json and scripts 1.png]]
+![6  add package json and scripts 1](https://user-images.githubusercontent.com/17401732/134715457-3749d070-88a5-4ec5-a6a6-4ce401aca015.png)
+
 
 ---
 
@@ -231,7 +232,7 @@ profiles
 
 ---
 
-![[6. add package.json and scripts 2.png]]
+![6  add package json and scripts 2](https://user-images.githubusercontent.com/17401732/134715470-bfd1782b-c85c-40b2-8007-8b02afa01daa.png)
 
 ---
 
@@ -239,7 +240,7 @@ profiles
 
 ---
 
-![[6. add package.json and scripts 3.png]]
+![6  add package json and scripts 3](https://user-images.githubusercontent.com/17401732/134715490-692efb7b-404c-434f-af47-753d561253ca.png)
 
 ---
 
@@ -251,7 +252,7 @@ profiles
 
 ---
 
-![[7. add application.yml 6.png]]
+![7  add application yml 6](https://user-images.githubusercontent.com/17401732/134715513-813ebecc-f2e7-4df6-adda-bafefff47b0d.png)
 
 ---
 
@@ -260,11 +261,11 @@ profiles
 
 ---
 
-![[7. add application.yml 7.png]]
+![7  add application yml 7](https://user-images.githubusercontent.com/17401732/134715530-4bafbc9e-6bd0-4e29-acea-394da1cafd69.png)
 
 ---
 
-![[7. add application.yml 8.png]]
+![7  add application yml 8](https://user-images.githubusercontent.com/17401732/134715542-1343b8ec-f1f6-4786-9f27-3b0720531d49.png)
 
 ---
 
@@ -272,11 +273,11 @@ profiles
 
 ---
 
-![[7. add application.yml 9.png]]
+![7  add application yml 9](https://user-images.githubusercontent.com/17401732/134715555-2c04665a-27a7-4573-8e88-33b97a834567.png)
 
 ---
 
-![[7. add application.yml 10.png]]
+![7  add application yml 10](https://user-images.githubusercontent.com/17401732/134715570-a4390854-dd2e-4fa2-98a4-9b80cc6f3654.png)
 
 ---
 
@@ -288,11 +289,11 @@ profiles
 
 ---
 
-![[7. add Dockerfile 1.png]]
+![8  add Dockerfile 1](https://user-images.githubusercontent.com/17401732/134715762-661c9404-b0a4-4b17-b795-6afd314105f9.png)
 
 ---
 
-![[7. add Dockerfile 2.png]]
+![8  add Dockerfile 2](https://user-images.githubusercontent.com/17401732/134715778-88445154-9330-450b-ae8e-996145243699.png)
 
 ---
 
@@ -300,7 +301,7 @@ profiles
 
 ---
 
-![[7. add Dockerfile 3.png]]
+![8  add Dockerfile 3](https://user-images.githubusercontent.com/17401732/134715789-72dbcca4-cabb-4aad-9caa-8bfb0d9a43a0.png)
 
 ---
 
@@ -308,7 +309,7 @@ profiles
 
 ---
 
-![[7. add Dockerfile 4.png]]
+![8  add Dockerfile 4](https://user-images.githubusercontent.com/17401732/134715800-7359e0f0-f6f2-4bba-b1a6-6451e380736a.png)
 
 ---
 
@@ -316,10 +317,10 @@ profiles
 
 ---
 
-![[7. add Dockerfile 11.png]]
+![8  add Dockerfile 11](https://user-images.githubusercontent.com/17401732/134715831-1769b09b-68b6-400b-8e23-d04c8f33d0a6.png)
 
 ---
 
-![[7. add Dockerfile 12.png]]
+![8  add Dockerfile 12](https://user-images.githubusercontent.com/17401732/134715849-4974562d-16a8-4ff2-9703-6f5b1ddb0ab4.png)
 
 ---
