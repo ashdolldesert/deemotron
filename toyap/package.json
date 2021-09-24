@@ -4,7 +4,19 @@
   "description": "This is a very simple swagger2 example.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "install-api": "mvn clean package",
+    "startup": "mvn clean spring-boot:run",
+    "startup-local": "mvn clean spring-boot:run -P local",
+    "startup-dev": "mvn clean spring-boot:run -P dev",
+    "startup-docker": "mvn clean spring-boot:run -P docker",
+    "test": "mvn test",
+    "deploy": "mvn clean package",
+    "docker-build-and-run": "npm run docker-build && npm run docker-stop && npm run docker-rm && npm run docker-run",
+    "docker-build": "mvn clean package -P docker && docker build -t toyap .",
+    "docker-rm": "docker rm toyap-container",
+    "docker-run": "docker run -d -p 8585:8585 --name toyap-container toyap",
+    "docker-start": "docker start toyapp-container",
+    "docker-stop": "docker stop toyap-container"
   },
   "author": "",
   "license": "ISC"
