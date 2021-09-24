@@ -57,6 +57,33 @@
 		</dependency>
 	</dependencies>
 
+	<profiles>
+		<!-- local -->
+		<profile>
+			<id>local</id>
+			<properties>
+				<spring.profiles.active>local</spring.profiles.active>
+			</properties>
+		</profile>
+		<!-- development -->
+		<profile>
+			<id>dev</id>
+			<properties>
+				<spring.profiles.active>dev</spring.profiles.active>
+			</properties>
+			<activation>
+				<activeByDefault>true</activeByDefault>
+			</activation>
+		</profile>
+		<!-- docker -->
+		<profile>
+			<id>docker</id>
+			<properties>
+				<spring.profiles.active>docker</spring.profiles.active>
+			</properties>
+		</profile>
+	</profiles>
+
 	<build>
 		<plugins>
 			<plugin>
