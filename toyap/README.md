@@ -198,3 +198,128 @@ This is a very simple swagger2 example.
 
 ![4  add swagger yaml file 8](https://user-images.githubusercontent.com/17401732/134555591-c5c0779d-bdce-4c98-b8a8-ab72098b1717.png)
 
+## 5. add profiles to pom.xml
+
+profiles
+- local
+- develop(default)
+- docker
+
+---
+
+![[5. add profiles to pom.xml 1.png]]
+
+---
+
+## 6. add package.json and scripts
+
+---
+
+### 6-0. npm init
+
+---
+
+![[6. add package.json and scripts 0.png]]
+
+---
+
+![[6. add package.json and scripts 1.png]]
+
+---
+
+### 6-1. add maven scripts
+
+---
+
+![[6. add package.json and scripts 2.png]]
+
+---
+
+### 6-3. add docker scripts
+
+---
+
+![[6. add package.json and scripts 3.png]]
+
+---
+
+## 7. add application.yml
+
+---
+
+### 7-1. remove application.properties
+
+---
+
+![[7. add application.yml 6.png]]
+
+---
+
+
+### 7-2. create application.yml
+
+---
+
+![[7. add application.yml 7.png]]
+
+---
+
+![[7. add application.yml 8.png]]
+
+---
+
+### 7-3. create application-docker.yml set port 8585
+
+---
+
+![[7. add application.yml 9.png]]
+
+---
+
+![[7. add application.yml 10.png]]
+
+---
+
+## 8. add Dockerfile
+
+---
+
+### 8-1. create Dockerfile
+
+---
+
+![[7. add Dockerfile 1.png]]
+
+---
+
+![[7. add Dockerfile 2.png]]
+
+---
+
+### 8-2. Lets try docker-build
+
+---
+
+![[7. add Dockerfile 3.png]]
+
+---
+
+### 8-3. Lets try docker-run
+
+---
+
+![[7. add Dockerfile 4.png]]
+
+---
+
+### 8-4. Lets try docker-build-and-run
+
+---
+
+![[7. add Dockerfile 11.png]]
+
+---
+
+![[7. add Dockerfile 12.png]]
+
+---
